@@ -4,5 +4,11 @@
     "url": "https://github.com/kwb-r/kwb.utils",
     "via": ["findblobs"],
     "from": "findblobs"
+  },
+  {
+    "package": "r2r",
+    "url": "https://github.com/vh-d/r2r",
+    "via": ["odbc32"],
+    "from": "odbc32"
   }
 ]
