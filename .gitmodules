@@ -33,3 +33,8 @@
 	url = https://github.com/hsonne/swmmr
 	shallow = true
 	registered = true
+[submodule "kwb.utils"]
+	path = kwb.utils
+	url = https://github.com/kwb-r/kwb.utils
+	shallow = true
+	registered = false

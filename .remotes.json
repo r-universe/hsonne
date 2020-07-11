@@ -1,0 +1,8 @@
+[
+  {
+    "package": "kwb.utils",
+    "url": "https://github.com/kwb-r/kwb.utils",
+    "via": ["findblobs"],
+    "from": "findblobs"
+  }
+]
