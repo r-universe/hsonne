@@ -5,101 +5,31 @@
 	branch = HEAD
 [submodule "blockrand2"]
 	path = blockrand2
-	url = https://api.github.com/repos/hsonne/blockrand2
-	shallow = true
-	registered = true
-[submodule "codemetar"]
-	path = codemetar
-	url = https://api.github.com/repos/hsonne/codemetar
+	url = https://github.com/hsonne/blockrand2
 	shallow = true
 	registered = true
 [submodule "findblobs"]
 	path = findblobs
-	url = https://api.github.com/repos/hsonne/findblobs
-	shallow = true
-	registered = true
-[submodule "fine"]
-	path = fine
-	url = https://api.github.com/repos/hsonne/fine
-	shallow = true
-	registered = true
-[submodule "flusshygiene-opencpu-base"]
-	path = flusshygiene-opencpu-base
-	url = https://api.github.com/repos/hsonne/flusshygiene-opencpu-base
-	shallow = true
-	registered = true
-[submodule "ggplot2"]
-	path = ggplot2
-	url = https://api.github.com/repos/hsonne/ggplot2
-	shallow = true
-	registered = true
-[submodule "haus-vom-nikolaus"]
-	path = haus-vom-nikolaus
-	url = https://api.github.com/repos/hsonne/haus-vom-nikolaus
+	url = https://github.com/hsonne/findblobs
 	shallow = true
 	registered = true
 [submodule "magickx"]
 	path = magickx
-	url = https://api.github.com/repos/hsonne/magickx
-	shallow = true
-	registered = true
-[submodule "mietspiegel"]
-	path = mietspiegel
-	url = https://api.github.com/repos/hsonne/mietspiegel
-	shallow = true
-	registered = true
-[submodule "mrustl.github.io"]
-	path = mrustl.github.io
-	url = https://api.github.com/repos/hsonne/mrustl.github.io
+	url = https://github.com/hsonne/magickx
 	shallow = true
 	registered = true
 [submodule "odbc32"]
 	path = odbc32
-	url = https://api.github.com/repos/hsonne/odbc32
+	url = https://github.com/hsonne/odbc32
 	shallow = true
 	registered = true
 [submodule "pathlist"]
 	path = pathlist
-	url = https://api.github.com/repos/hsonne/pathlist
-	shallow = true
-	registered = true
-[submodule "pFromGrADS"]
-	path = pFromGrADS
-	url = https://api.github.com/repos/hsonne/pFromGrADS
-	shallow = true
-	registered = true
-[submodule "pptmerge"]
-	path = pptmerge
-	url = https://api.github.com/repos/hsonne/pptmerge
-	shallow = true
-	registered = true
-[submodule "r2r"]
-	path = r2r
-	url = https://api.github.com/repos/hsonne/r2r
-	shallow = true
-	registered = true
-[submodule "rain"]
-	path = rain
-	url = https://api.github.com/repos/hsonne/rain
+	url = https://github.com/hsonne/pathlist
 	shallow = true
 	registered = true
 [submodule "swmmr"]
 	path = swmmr
-	url = https://api.github.com/repos/hsonne/swmmr
-	shallow = true
-	registered = true
-[submodule "Testprojekt_01"]
-	path = Testprojekt_01
-	url = https://api.github.com/repos/hsonne/Testprojekt_01
-	shallow = true
-	registered = true
-[submodule "universe"]
-	path = universe
-	url = https://api.github.com/repos/hsonne/universe
-	shallow = true
-	registered = true
-[submodule "xtruso_R"]
-	path = xtruso_R
-	url = https://api.github.com/repos/hsonne/xtruso_R
+	url = https://github.com/hsonne/swmmr
 	shallow = true
 	registered = true
