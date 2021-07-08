@@ -1,0 +1,66 @@
+[
+  {
+    "package": "blockrand2"
+  },
+  {
+    "package": "codemetar",
+    "oncran": false
+  },
+  {
+    "package": "findblobs"
+  },
+  {
+    "package": "fine"
+  },
+  {
+    "package": "flusshygiene-opencpu-base"
+  },
+  {
+    "package": "ggplot2",
+    "oncran": false
+  },
+  {
+    "package": "haus-vom-nikolaus"
+  },
+  {
+    "package": "magickx"
+  },
+  {
+    "package": "mietspiegel"
+  },
+  {
+    "package": "mrustl.github.io"
+  },
+  {
+    "package": "odbc32"
+  },
+  {
+    "package": "pathlist"
+  },
+  {
+    "package": "pFromGrADS"
+  },
+  {
+    "package": "pptmerge"
+  },
+  {
+    "package": "r2r",
+    "oncran": false
+  },
+  {
+    "package": "rain"
+  },
+  {
+    "package": "swmmr",
+    "oncran": false
+  },
+  {
+    "package": "Testprojekt_01"
+  },
+  {
+    "package": "universe"
+  },
+  {
+    "package": "xtruso_R"
+  }
+]
