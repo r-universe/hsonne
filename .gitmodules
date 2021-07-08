@@ -32,7 +32,6 @@
 	path = swmmr
 	url = https://github.com/hsonne/swmmr
 	shallow = true
-	branch = mydev
 	registered = true
 [submodule "kwb.file"]
 	path = kwb.file
