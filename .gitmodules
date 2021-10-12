@@ -8,9 +8,24 @@
 	url = https://github.com/hsonne/blockrand2
 	shallow = true
 	registered = true
+[submodule "findblobs"]
+	path = findblobs
+	url = https://github.com/hsonne/findblobs
+	shallow = true
+	registered = true
 [submodule "magickx"]
 	path = magickx
 	url = https://github.com/hsonne/magickx
+	shallow = true
+	registered = true
+[submodule "odbc32"]
+	path = odbc32
+	url = https://github.com/hsonne/odbc32
+	shallow = true
+	registered = true
+[submodule "pathlist"]
+	path = pathlist
+	url = https://github.com/hsonne/pathlist
 	shallow = true
 	registered = true
 [submodule "swmmr"]
