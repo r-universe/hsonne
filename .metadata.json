@@ -15,7 +15,6 @@
     "package": "pathlist"
   },
   {
-    "package": "swmmr",
-    "oncran": false
+    "package": "swmmr"
   }
 ]
