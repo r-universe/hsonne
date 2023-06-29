@@ -1,50 +1,34 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/hsonne/universe
-	shallow = true
 	branch = HEAD
 [submodule "blockrand2"]
 	path = blockrand2
 	url = https://github.com/hsonne/blockrand2
-	shallow = true
-	registered = true
 [submodule "findblobs"]
 	path = findblobs
 	url = https://github.com/hsonne/findblobs
-	shallow = true
-	registered = true
 [submodule "magickx"]
 	path = magickx
 	url = https://github.com/hsonne/magickx
-	shallow = true
-	registered = true
 [submodule "odbc32"]
 	path = odbc32
 	url = https://github.com/hsonne/odbc32
-	shallow = true
-	registered = true
 [submodule "pathlist"]
 	path = pathlist
 	url = https://github.com/hsonne/pathlist
-	shallow = true
-	registered = true
 [submodule "swmmr"]
 	path = swmmr
 	url = https://github.com/hsonne/swmmr
-	shallow = true
-	registered = true
 [submodule "kwb.file"]
 	path = kwb.file
 	url = https://github.com/kwb-r/kwb.file
-	shallow = true
 	registered = false
 [submodule "kwb.utils"]
 	path = kwb.utils
 	url = https://github.com/kwb-r/kwb.utils
-	shallow = true
 	registered = false
 [submodule "r2r"]
 	path = r2r
 	url = https://github.com/vh-d/r2r
-	shallow = true
 	registered = false
