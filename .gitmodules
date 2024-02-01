@@ -8,6 +8,14 @@
 [submodule "findblobs"]
 	path = findblobs
 	url = https://github.com/hsonne/findblobs
+[submodule "kwb.file"]
+	path = kwb.file
+	url = https://github.com/kwb-r/kwb.file
+	registered = false
+[submodule "kwb.utils"]
+	path = kwb.utils
+	url = https://github.com/kwb-r/kwb.utils
+	registered = false
 [submodule "magickx"]
 	path = magickx
 	url = https://github.com/hsonne/magickx
@@ -17,18 +25,10 @@
 [submodule "pathlist"]
 	path = pathlist
 	url = https://github.com/hsonne/pathlist
-[submodule "swmmr"]
-	path = swmmr
-	url = https://github.com/hsonne/swmmr
-[submodule "kwb.file"]
-	path = kwb.file
-	url = https://github.com/kwb-r/kwb.file
-	registered = false
-[submodule "kwb.utils"]
-	path = kwb.utils
-	url = https://github.com/kwb-r/kwb.utils
-	registered = false
 [submodule "r2r"]
 	path = r2r
 	url = https://github.com/vh-d/r2r
 	registered = false
+[submodule "swmmr"]
+	path = swmmr
+	url = https://github.com/hsonne/swmmr
