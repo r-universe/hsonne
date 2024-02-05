@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/hsonne/universe
+	url = https://github.com/hsonne/hsonne.r-universe.dev
 	branch = HEAD
 [submodule "blockrand2"]
 	path = blockrand2
